@@ -1,3 +1,7 @@
+
+<div>
+    {{-- A good traveler has no fixed plans and is not intent upon arriving. --}}
+=======
 <div class="d-flex align-items-center justify-content-center vh-100 bg-light; background-color:beige">
 
     <div class="card shadow-sm p-4" style="width: 400px">
@@ -33,4 +37,5 @@
         </form>
 
     </div>
+
 </div>

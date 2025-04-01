@@ -2,11 +2,16 @@
 
 namespace App\Livewire\Auth\Login;
 
+
+=======
 use Illuminate\Support\Facades\Auth;
+
 use Livewire\Component;
 
 class Cliente extends Component
 {
+
+=======
     public $email;
     public $password;
 
@@ -43,6 +48,7 @@ class Cliente extends Component
 
         session()->flash('error', 'email ou senha incorretos');
     }
+
 
     public function render()
     {
